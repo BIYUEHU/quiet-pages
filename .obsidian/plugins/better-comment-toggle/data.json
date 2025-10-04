@@ -1,0 +1,19 @@
+{
+  "overrideAppearance": false,
+  "commentStyle": "html",
+  "customCommentStart": "<!--",
+  "customCommentEnd": "-->",
+  "dropCursor": false,
+  "appearance": {
+    "showBackground": false,
+    "backgroundColor": "#191919",
+    "color": "#565E67",
+    "fontTheme": "default",
+    "customFont": "initial",
+    "italic": false,
+    "weight": 400,
+    "showOutline": false,
+    "outlineColor": "#FFFFFF"
+  },
+  "customLanguages": []
+}

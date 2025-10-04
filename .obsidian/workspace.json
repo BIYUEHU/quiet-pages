@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "f7e317040b939b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9f0c2370cfa7d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7b05b3cd6791387",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fiction/雨/序幕.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "序幕"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34aceb89869c4aff",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7a4306318329078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd34483158e20832",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "703cd43cf3fa011c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3c30065f6968d4a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 283.5
+  },
+  "right": {
+    "id": "d93bcd93970d8ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d465b70b8a31e99f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf7cb60fc1716dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e6c05e9452a6d8f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "23dc66a38985a2cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7ce8bb45f671d21a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "爱因斯坦携爱敬上随笔 的大纲"
+            }
+          },
+          {
+            "id": "c688c93293f73e88",
+            "type": "leaf",
+            "state": {
+              "type": "SC-custom-variables-view",
+              "state": {},
+              "icon": "code-glyph",
+              "title": "Shell commands: Custom variables"
+            }
+          },
+          {
+            "id": "b270f1125fc32ef1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 412.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": true,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": true,
+      "obsidian-shellcommands:Shell commands: Custom variables": true,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "bd34483158e20832",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "欢迎.md",
+    "fiction/雨/序幕.md",
+    "fiction/雨",
+    "fiction",
+    "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+    "lexicon/chinese.md",
+    "lexicon/shortcut.md",
+    "cedict_ts.u8",
+    "未命名.md",
+    "misc/模板/工作记录/每周查验.md",
+    "misc/模板/工作记录/每日.md",
+    "misc/背景图/附件/Pasted image 20231020093613.png",
+    "misc/背景图/附件/Pasted image 20231020093535(1).png",
+    "misc/背景图/附件/Pasted image 20231020093519(1).png",
+    "misc/背景图/附件/Pasted image 20231020093433.png",
+    "misc/背景图/附件/Pasted image 20231020093502.png",
+    "2.补充/字典/英文词条(1).md",
+    "2.补充/字典/中文字典(1).md",
+    "2.补充/字典/英文词条.md",
+    "misc/模板/01日记.md",
+    "misc/模板/01日记(1).md",
+    "misc/模板/02周记(1).md",
+    "misc/模板/03月记.md",
+    "misc/模板/03月记(1).md",
+    "misc/模板/04年记.md",
+    "misc/模板/04年记(1).md",
+    "misc/模板/读书笔记.md",
+    "misc/模板/读书笔记(1).md",
+    "misc/模板/学习笔记.md",
+    "misc/模板/学习笔记(1).md",
+    "misc/模板/02周记.md",
+    "misc/背景图/附件/Pasted image 20231020093645.png",
+    "misc/背景图/附件/Pasted image 20231020093645(1).png",
+    "misc/背景图/附件/Pasted image 20231020093624.png",
+    "misc/背景图/附件/Pasted image 20231020093624(1).png",
+    "misc/背景图/附件/Pasted image 20231020093613(1).png",
+    "misc/背景图/附件",
+    "misc/背景图",
+    "misc/模板/工作记录/每日(1).md",
+    "misc/模板/工作记录/每周查验(1).md",
+    "misc/模板/工作记录",
+    "misc/模板",
+    "2.补充/字典",
+    "misc",
+    "lexicon",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
