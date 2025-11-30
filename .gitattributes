@@ -1,2 +1,1 @@
-README.md                linguist-detectable=true
-README.md                linguist-language=markdown
+./README.md linguist-vendored=false
