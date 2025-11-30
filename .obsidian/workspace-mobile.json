@@ -11,8 +11,12 @@
             "id": "d9399b21ee3d61e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md"
+          }
         }
       }
     ],
@@ -124,11 +132,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9399b21ee3d61e7",
+  "active": "e1ea01b60584c671",
   "lastOpenFiles": [
-    "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
-    "essays/爱因斯坦携爱敬上随笔/claude.md",
     "fiction/雨/序幕.md",
+    "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+    "reviews/爱因斯坦携爱敬上解读/claude 指导.md",
+    "reviews/爱因斯坦携爱敬上解读/claude.md",
+    "essays/爱因斯坦携爱敬上随笔/claude.md",
     "reviews/电气马戏团 书评.md",
     "欢迎.md"
   ]
