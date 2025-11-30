@@ -1,1 +1,4 @@
-./README.md linguist-vendored=false
+README.md linguist-vendored=false
+README.md linguist-generated=false
+README.md linguist-documentation=false
+README.md linguist-detectable=true
