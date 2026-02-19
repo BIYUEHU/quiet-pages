@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+                "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+            "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+            "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md"
+            "file": "reviews/爱因斯坦携爱敬上解读/claude.md"
           }
         }
       }
@@ -134,9 +134,10 @@
   },
   "active": "e1ea01b60584c671",
   "lastOpenFiles": [
-    "fiction/雨/序幕.md",
-    "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
     "reviews/爱因斯坦携爱敬上解读/claude 指导.md",
+    "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
+    "README.md",
+    "fiction/雨/序幕.md",
     "reviews/爱因斯坦携爱敬上解读/claude.md",
     "essays/爱因斯坦携爱敬上随笔/claude.md",
     "reviews/电气马戏团 书评.md",
