@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f9f0c2370cfa7d9c",
+        "id": "a7086c71e32f7da0",
         "type": "tabs",
         "children": [
           {
-            "id": "c7b05b3cd6791387",
+            "id": "0f2ce39046a60b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fiction/雨/序幕.md",
+                "file": "reviews/2025年度读书短评.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025年度读书短评"
+            }
+          },
+          {
+            "id": "d4cc9c871e45bfdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "essays/夏末盛开的花随笔/夏末盛开的花随笔.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "序幕"
+              "title": "夏末盛开的花随笔"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,24 +194,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": true,
       "obsidian-shellcommands:Shell commands: Custom variables": true,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7b05b3cd6791387",
+  "active": "d4cc9c871e45bfdb",
   "lastOpenFiles": [
+    "essays/夏末盛开的花随笔/assets/2a2bc2f2e1103c9ec6db8ac4c6d0be6e.png",
+    "essays/夏末盛开的花随笔/夏末盛开的花随笔.md",
+    "essays/夏末盛开的花随笔/assets/476ca406cbcaddd897b70dfb02b3a891.png",
+    "essays/夏末盛开的花随笔/assets/11fa8a82b69cfb7a6983f18a22e45963.png",
+    "reviews/2025年度读书短评.md",
+    "essays/夏末盛开的花随笔/assets/4683a50a673ce1ce6f366ac10ccfb49d.png",
+    "essays/夏末盛开的花随笔/assets/5f979cbb0b5aa9345ca7700c51587f1d.png",
+    "essays/夏末盛开的花随笔/assets/bdd204dce9ef6e1d821b01fa11d708bd.png",
+    "essays/夏末盛开的花随笔/assets/232ad23072b000b414443d01ed471d9e.png",
+    "essays/夏末盛开的花随笔/assets/62bc2c8ed446e0d1cfb5557f12b1593f.png",
+    "essays/夏末盛开的花随笔/assets/IMG-20260221155443816.png",
+    "essays/夏末盛开的花随笔/assets/e162ed7d376126224f37297a9fbe050d.png",
+    "essays/夏末盛开的花随笔/assets",
+    "notes/《抒情歌》川端康成.md",
+    "essays/夏末盛开的花随笔",
+    "essays/未命名.md",
+    "README.md",
+    "notes",
+    "未命名.canvas",
+    "tech/TypeScript 入门指北.md",
+    "tech",
+    "reviews/电气马戏团 书评.md",
+    "reviews/爱因斯坦携爱敬上解读/草稿.md",
+    "reviews/爱因斯坦携爱敬上解读/爱因斯坦携爱敬上解读.md",
+    "reviews/爱因斯坦携爱敬上解读/claude0.md",
+    "reviews/爱因斯坦携爱敬上解读/claude.md",
+    "reviews/爱因斯坦携爱敬上解读/claude 指导.md",
+    "reviews/爱因斯坦携爱敬上解读",
+    "reviews",
+    "fiction/雨/claude 女主超越性.md",
+    "fiction/雨/序幕.md",
     "新建 文本文档.txt",
     "欢迎.md",
-    "fiction/雨/序幕.md",
     "fiction/雨",
     "fiction",
     "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
@@ -206,42 +250,11 @@
     "未命名.md",
     "misc/模板/工作记录/每周查验.md",
     "misc/模板/工作记录/每日.md",
-    "misc/背景图/附件/Pasted image 20231020093613.png",
-    "misc/背景图/附件/Pasted image 20231020093535(1).png",
-    "misc/背景图/附件/Pasted image 20231020093519(1).png",
-    "misc/背景图/附件/Pasted image 20231020093433.png",
-    "misc/背景图/附件/Pasted image 20231020093502.png",
     "2.补充/字典/英文词条(1).md",
     "2.补充/字典/中文字典(1).md",
     "2.补充/字典/英文词条.md",
     "misc/模板/01日记.md",
-    "misc/模板/01日记(1).md",
-    "misc/模板/02周记(1).md",
-    "misc/模板/03月记.md",
-    "misc/模板/03月记(1).md",
-    "misc/模板/04年记.md",
-    "misc/模板/04年记(1).md",
-    "misc/模板/读书笔记.md",
-    "misc/模板/读书笔记(1).md",
-    "misc/模板/学习笔记.md",
-    "misc/模板/学习笔记(1).md",
-    "misc/模板/02周记.md",
-    "misc/背景图/附件/Pasted image 20231020093645.png",
-    "misc/背景图/附件/Pasted image 20231020093645(1).png",
-    "misc/背景图/附件/Pasted image 20231020093624.png",
-    "misc/背景图/附件/Pasted image 20231020093624(1).png",
-    "misc/背景图/附件/Pasted image 20231020093613(1).png",
-    "misc/背景图/附件",
-    "misc/背景图",
-    "misc/模板/工作记录/每日(1).md",
-    "misc/模板/工作记录/每周查验(1).md",
-    "misc/模板/工作记录",
-    "misc/模板",
-    "2.补充/字典",
-    "misc",
-    "lexicon",
     "未命名 2.canvas",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }
