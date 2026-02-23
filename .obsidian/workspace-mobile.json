@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
+                "file": "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1dc645cb335f8bcb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75b4d997847aaf42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
+            "file": "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "reviews/爱因斯坦携爱敬上解读/claude.md",
+            "file": "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "reviews/爱因斯坦携爱敬上解读/claude.md"
+            "file": "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md"
           }
         }
       }
@@ -132,13 +150,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ea01b60584c671",
+  "active": "d9399b21ee3d61e7",
   "lastOpenFiles": [
     "reviews/爱因斯坦携爱敬上解读/claude 指导.md",
+    "reviews/跨越千年、超脱遗忘传达的爱意——《夏末盛开的花》.md",
+    "[.md",
+    "essays/夏末盛开的花随笔/夏末盛开的花随笔.md",
+    "reviews/爱因斯坦携爱敬上解读/claude.md",
     "essays/爱因斯坦携爱敬上随笔/爱因斯坦携爱敬上随笔.md",
     "README.md",
     "fiction/雨/序幕.md",
-    "reviews/爱因斯坦携爱敬上解读/claude.md",
     "essays/爱因斯坦携爱敬上随笔/claude.md",
     "reviews/电气马戏团 书评.md",
     "欢迎.md"
